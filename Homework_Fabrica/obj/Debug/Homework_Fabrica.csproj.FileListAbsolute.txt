@@ -1,0 +1,7 @@
+F:\Ilya\GIT_rep\Homework_Fabrica\Homework_Fabrica\bin\Debug\Homework_Fabrica.exe.config
+F:\Ilya\GIT_rep\Homework_Fabrica\Homework_Fabrica\bin\Debug\Homework_Fabrica.exe
+F:\Ilya\GIT_rep\Homework_Fabrica\Homework_Fabrica\bin\Debug\Homework_Fabrica.pdb
+F:\Ilya\GIT_rep\Homework_Fabrica\Homework_Fabrica\obj\Debug\Homework_Fabrica.csprojAssemblyReference.cache
+F:\Ilya\GIT_rep\Homework_Fabrica\Homework_Fabrica\obj\Debug\Homework_Fabrica.csproj.CoreCompileInputs.cache
+F:\Ilya\GIT_rep\Homework_Fabrica\Homework_Fabrica\obj\Debug\Homework_Fabrica.exe
+F:\Ilya\GIT_rep\Homework_Fabrica\Homework_Fabrica\obj\Debug\Homework_Fabrica.pdb
